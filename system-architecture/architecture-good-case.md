@@ -62,12 +62,15 @@
 ---
 #### 物流
 
+* ###### 菜鸟
+	* [谈笔1000亿的生意：揭秘菜鸟全球智能仓配技术实践](https://mp.weixin.qq.com/s/igH0UwkvP9WiVTkFX-IrLA)
 * ###### 京东
 	* [京东物流系统架构演进中的最佳实践](http://mp.weixin.qq.com/s/2HVkQCaXQQEQIqTrJZ01wA)
 	* [大数据构建京东智慧物流](https://mp.weixin.qq.com/s/G1l3lRZezV6_h-4CpdofvA)
 * ###### 顺丰
 	* [顺丰IT基础架构运维的焦虑与进化](https://mp.weixin.qq.com/s/vK2VRyLtcH1qYtO1VbllOw)
-* [大数据在物流企业中的应用](https://mp.weixin.qq.com/s/X-0qIcxnGhV_PTnXTR1IuA)
+* ###### 其它
+	* [大数据在物流企业中的应用](https://mp.weixin.qq.com/s/X-0qIcxnGhV_PTnXTR1IuA)
 
 
 ---
@@ -146,6 +149,10 @@
 	* [社区稳定性之降级](社区稳定性之降级.md)
 	* [社区计数器](案例-计数器.md)
 	* [回复的楼层号如何控制并发？](案例-贴子楼层号.md)
+* ###### timeline
+	* [几个大型网站的Feeds(Timeline)设计简单对比](https://mp.weixin.qq.com/s/MFFJtRixz9Cr3WFh33h__Q)
+
+
 
 ---
 #### 互联网金融
@@ -182,11 +189,14 @@
 
 * ###### IM
 	* [现代IM系统中消息推送和存储架构的实现（Timeline）](https://mp.weixin.qq.com/s/sYRchf1-8ZpD7Q3UYx_KLQ)
+* ###### 答题
+	* [直播答题系统在技术上难实现吗？挑战有多大？](https://mp.weixin.qq.com/s/Tp7K4g3DxmEiU0iYrmR8Mw)
 * ###### 其它
 	* [淘宝直播在双11的互动实践](http://mp.weixin.qq.com/s/WcHvukClRSLA4KczRjDVaw)
 	* [常见的几种直播连麦方案](http://mp.weixin.qq.com/s/Ej4QHRvF7e0i5d78hETrwg)
 	* [如何开发10万在线级别的直播弹幕技术？](http://mp.weixin.qq.com/s/U4SKJbXSkd6JOx0R7yK-5g)
 	* [视频私有云实战：基于 Docker 构建点播私有云平台](http://mp.weixin.qq.com/s/OXzYMM14ag2k9sh9WidV2w)
+
 
 ---
 #### 共享单车
@@ -228,6 +238,7 @@
 
 * ###### 会员、注册、登录
 	* [单点登录怎么实现？](https://mp.weixin.qq.com/s/ZT1B6ziSSRW41FN33xA3ZA)
+	* [深入了解Token认证的来龙去脉](https://mp.weixin.qq.com/s/DkwfpZibKdllfm0lpxukWg)
 
 ---
 #### 其它
